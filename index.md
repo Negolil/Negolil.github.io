@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<!doctype html>
 
-You can use the [editor on GitHub](https://github.com/Negolil/Negolil.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <head>
+    <title>Sola Systems</title>
+  </head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    	<header>
+	  <img src=“file:///Users/Joey/Desktop/Sola%20Systems%20Website/SolaSystemsLogo.png” />
+		<nav>
+		<ul>
+	   	<li><a href=“index.html”>Home</a></li>
+	   	<li><a href=“Events.html”>Events</a></li>
+	  	<li><a href=“Production.html”>Production</a></li>
+	  	<li><a href=”About.html”>About</a></li>
+	   	<li><a href=“Contact.html”>Contact</a></li>
+		</ul>
+		</nav>
+	</header>
+    <body>
+      <h1><strong>We are here to service all your needs!</strong></h1>
 
-### Markdown
+      <p>By placing our clients and their needs at the center of our system, we deliver results that rocket past expectations. We provide end-to-end service across the entire production cycle. From conceptualization to execution and everywhere in between, we help our clients reach their goals.  Are you ready to be placed at the center of the Sola System? </p>
+	
+    </body>
+	<footer> 
+		<p>Contact Us: SolaSystemsLLC@Gmail.com</p>	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	</footer>
 
-```markdown
-Syntax highlighted code block
+</html>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Negolil/Negolil.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
